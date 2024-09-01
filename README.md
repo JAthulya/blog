@@ -1,0 +1,2 @@
+# blog
+to store blogs
